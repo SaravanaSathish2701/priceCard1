@@ -1,0 +1,20 @@
+.border{
+    border-image: linear-gradient(rgb(53, 132, 235), lightblue 1000px,rgb(53, 132, 235) 10px) 50;
+    border-width: 16px;
+    border-style: solid;
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+}
+
+.btn{
+    background-color: rgb(45, 129, 239);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 50px;
+    margin: 5px;
+    text-align: center; 
+    width: 100%;
+  }
